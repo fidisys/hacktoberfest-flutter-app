@@ -42,36 +42,36 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 30),
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 10),
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 12),
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 20),
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 24),
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                 ),
                 Text(
-                  'Hacktoberfest 2019',
+                  'Hacktoberfest 2020',
                   style: TextStyle(fontSize: 26),
                 ),
               ],
